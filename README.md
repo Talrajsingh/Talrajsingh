@@ -18,8 +18,7 @@ I'm actively working on strengthening my **Data Structures and Algorithms (DSA)*
 
 ### 👯 I’m looking to collaborate on...
 
-Projects that involve building full-stack applications with the MERN stack. I'm especially interested in projects that use **TypeScript** or integrate **RESTful APIs**.
-
+Projects that involve building full-stack applications with the MERN stack.
 ---
 
 ### 💬 Ask me about...
