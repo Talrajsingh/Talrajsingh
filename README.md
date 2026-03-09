@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Talraj Singh**, a passionate full-stack developer from Indore, specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js). I enjoy building clean, scalable, and efficient web applications, from dynamic front-end interfaces to robust back-end APIs.
+I'm **Talraj Singh**, a passionate full-stack developer from Indore, specializing in the **MERN stack** (MongoDB, Express.js, React, Node.js) and .Net. I enjoy building clean, scalable, and efficient web applications, from dynamic front-end interfaces to robust back-end APIs.
 
 ---
 
