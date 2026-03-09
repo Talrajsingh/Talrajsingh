@@ -12,7 +12,7 @@ A full-stack web application to manage and streamline employee records, attendan
 
 ### 🌱 I’m currently learning...
 
-I'm actively working on strengthening my **Data Structures and Algorithms (DSA)** fundamentals. I'm focusing on key concepts like time complexity ($O(n)$) and essential data structures such as arrays, hash maps, and linked lists to improve my problem-solving skills.
+I'm actively working on strengthening my **Data Structures and Algorithms (DSA)** fundamentals and .Net. I'm focusing on key concepts like time complexity ($O(n)$) and essential data structures such as arrays, hash maps, and linked lists to improve my problem-solving skills.
 
 ---
 
